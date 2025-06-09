@@ -1,0 +1,81 @@
+Berikut ini adalah penjelasan **terperinci** mengenai setiap **komponen** yang ada dalam gambar, yang menunjukkan bagian sistem pendingin dan penyaring udara pada alat berat seperti **excavator** atau **wheel loader**:
+
+---
+
+## 🧊 SISTEM PENDINGIN & FILTRASI – PENJELASAN KOMPONEN
+
+### 1. **AIR CLEANER**
+
+* **Fungsi:** Menyaring udara masuk dari **partikel halus seperti debu dan kotoran** sebelum udara masuk ke ruang bakar.
+* **Penting untuk:** Menjaga agar mesin tidak menghirup udara kotor yang bisa merusak piston, silinder, dan sistem pembakaran.
+
+---
+
+### 2. **FUEL COOLER**
+
+* **Fungsi:** Mendinginkan **bahan bakar** sebelum masuk ke sistem injeksi.
+* **Manfaat:** Bahan bakar yang lebih dingin lebih padat dan efisien dalam pembakaran serta memperpanjang umur pompa dan injektor.
+
+---
+
+### 3. **KONDENSOR AC**
+
+* **Fungsi:** Mengubah **refrigeran dari bentuk gas ke cair** dalam sistem AC.
+* **Cara kerja:** Membuang panas dari gas bertekanan tinggi dan mengubahnya menjadi cair sebelum masuk ke evaporator.
+
+---
+
+### 4. **RADIATOR**
+
+* **Fungsi:** Mendinginkan **air pendingin mesin (coolant)**.
+* **Proses:** Coolant yang panas dari mesin masuk ke radiator, didinginkan oleh udara dan kipas, lalu dialirkan kembali ke mesin.
+* **Penting untuk:** Menjaga suhu kerja mesin tetap optimal dan mencegah overheat.
+
+---
+
+### 5. **OIL COOLER**
+
+* **Fungsi:** Mendinginkan **oli mesin atau oli hidrolik** yang panas setelah digunakan dalam sistem.
+* **Manfaat:** Mempertahankan viskositas dan kualitas oli agar tetap melumasi dan melindungi komponen internal.
+
+---
+
+### 6. **INTERCOOLER**
+
+* **Fungsi:** Mendinginkan **udara hasil kompresi dari turbocharger** sebelum masuk ke ruang bakar.
+* **Manfaat:** Udara yang lebih dingin lebih padat, meningkatkan efisiensi pembakaran dan tenaga mesin.
+
+---
+
+### 7. **RESERVOIR RADIATOR**
+
+* **Fungsi:** Tempat **penampungan cadangan air radiator (coolant)**.
+* **Kegunaan:** Menyediakan ruang ekspansi saat air radiator memuai dan mencegah kekosongan air dalam sistem.
+
+---
+
+### 8. **RESERVOIR WIPER**
+
+* **Fungsi:** Menyimpan air untuk **membersihkan kaca depan** (wiper).
+* **Penting untuk:** Menjaga visibilitas operator selama pengoperasian alat berat.
+
+---
+
+### 9. **WATER RESISTOR**
+
+* **Fungsi:** Filter khusus pada sistem radiator untuk **mencegah karat, kerak, dan korosi** pada bagian dalam radiator.
+* **Manfaat:** Memperpanjang umur radiator dan sistem pendinginan secara keseluruhan.
+
+---
+
+## 💡 KESIMPULAN
+
+Komponen-komponen ini merupakan bagian dari **sistem pendukung vital mesin**, terutama yang berkaitan dengan:
+
+* **Pendinginan mesin, oli, dan bahan bakar**
+* **Kebersihan udara dan cairan**
+* **Kenyamanan kabin (AC dan wiper)**
+
+Semua komponen ini bekerja sama untuk menjaga **efisiensi mesin, keamanan operasional, dan umur panjang alat berat**.
+
+Jika Anda ingin, saya bisa bantu buatkan diagram alur pendinginan atau sistem kerja AC berdasarkan gambar ini.

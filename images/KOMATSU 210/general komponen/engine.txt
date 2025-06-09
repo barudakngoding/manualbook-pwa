@@ -1,0 +1,72 @@
+Gambar yang Anda berikan menunjukkan **kompartemen mesin** dari sebuah **excavator Komatsu**, dengan berbagai komponen penting yang menunjang kinerja sistem mesin dan pendingin. Berikut ini adalah penjelasan **terperinci** untuk masing-masing komponen beserta **fungsi utamanya**:
+
+---
+
+### 🔧 **Bagian-Bagian dan Fungsinya**
+
+#### 1. **FUEL TANK**
+
+* **Fungsi:** Menyimpan bahan bakar diesel yang akan digunakan oleh mesin untuk proses pembakaran.
+
+#### 2. **HYDRAULIC OIL TANK**
+
+* **Fungsi:** Menyimpan oli hidrolik yang digunakan untuk menggerakkan komponen seperti boom, arm, dan bucket melalui sistem hidrolik.
+
+#### 3. **MUFFLER**
+
+* **Fungsi:** Meredam suara dari gas buang mesin dan mencegah percikan api keluar dari knalpot.
+
+#### 4. **COUNTER WEIGHT**
+
+* **Fungsi:** Menyeimbangkan berat excavator saat bucket mengangkat beban berat. Terletak di bagian belakang mesin.
+
+#### 5. **KOMPRESOR AC**
+
+* **Fungsi:** Menyediakan udara dingin ke kabin operator dengan memampatkan dan mensirkulasikan refrigeran AC.
+
+#### 6. **ENGINE**
+
+* **Fungsi:** Sumber tenaga utama excavator. Menggerakkan sistem hidrolik dan semua fungsi alat berat.
+
+#### 7. **TURBOCHARGER**
+
+* **Fungsi:** Meningkatkan daya mesin dengan memampatkan udara masuk agar pembakaran lebih kuat dan efisien.
+
+#### 8. **V-BELT**
+
+* **Fungsi:** Sabuk penghubung yang mentransmisikan tenaga dari mesin ke komponen lain seperti kipas, alternator, dan kompresor.
+
+#### 9. **FAN / KIPAS**
+
+* **Fungsi:** Mengalirkan udara untuk mendinginkan radiator dan sistem pendingin lainnya.
+
+#### 10. **AFTER COOLER**
+
+* **Fungsi:** Mendinginkan udara yang keluar dari turbocharger sebelum masuk ke ruang bakar, agar lebih padat dan efisien.
+
+#### 11. **OIL COOLER**
+
+* **Fungsi:** Mendinginkan oli mesin atau oli hidrolik yang mengalami kenaikan suhu akibat kerja berat.
+
+#### 12. **RADIATOR**
+
+* **Fungsi:** Menurunkan suhu cairan pendingin dari mesin agar mesin tetap dalam suhu kerja optimal.
+
+#### 13. **PRE-CLEANER**
+
+* **Fungsi:** Menyaring partikel debu besar dari udara masuk sebelum mencapai filter udara utama mesin.
+
+---
+
+### 🔩 **Fungsi Sistem Secara Umum**
+
+Gambar ini menggambarkan **sistem mesin dan pendinginan** pada excavator, yang sangat penting untuk menjaga:
+
+* **Kinerja optimal mesin**, khususnya pada suhu kerja.
+* **Efisiensi bahan bakar dan emisi gas buang.**
+* **Kestabilan tekanan sistem hidrolik.**
+* **Kenyamanan operator (melalui sistem AC).**
+
+---
+
+Jika Anda ingin, saya juga bisa bantu buat diagram alur sistem pendinginan atau aliran tenaga dari mesin ke hidrolik.

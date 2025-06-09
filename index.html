@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manualbook</title>
+    
+    <!-- PWA Meta Tags -->
+    <meta name="description" content="Manual book lengkap untuk alat berat - Ekskavator, Bulldozer, Grader, dan Crane">
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Manualbook">
+    <link rel="apple-touch-icon" href="icon.png">
+    <link rel="icon" type="image/png" href="icon.png">
+    <link rel="shortcut icon" href="icon.png">
+    
+    <!-- Manifest and Styles -->
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Manualbook</h1>
+    <div id="options">
+        <div class="option" onclick="showInfo('Ekskavator')">Ekskavator</div>
+        <div class="option" onclick="showInfo('Bulldozer')">Bulldozer</div>
+        <div class="option" onclick="showInfo('Grader')">Grader</div>
+        <div class="option" onclick="showInfo('Crane')">Crane</div>
+    </div>
+    <div id="info" style="margin-top: 20px;"></div>
+    <script src="script.js" type="module"></script>
+    <script>
+        console.log('Index page loaded');
+        
+        // Register Service Worker for PWA
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(function(registration) {
+                        console.log('SW registered: ', registration);
+                    })
+                    .catch(function(registrationError) {
+                        console.log('SW registration failed: ', registrationError);
+                    });
+            });
+        }
+    </script>
+</body>
+</html>
