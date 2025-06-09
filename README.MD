@@ -9,7 +9,7 @@ Progressive Web App (PWA) untuk manual book alat berat yang dapat diinstall dan 
 ## 🚀 Demo Live
 
 - **Website:** [https://manualbook-pwa.vercel.app](https://manualbook-pwa.vercel.app)
-- **GitHub:** [https://github.com/USERNAME/manualbook-pwa](https://github.com/USERNAME/manualbook-pwa)
+- **GitHub:** [https://github.com/Erphan12/manualbook-pwa](https://github.com/USERNAME/manualbook-pwa)
 
 ## 📋 Deskripsi
 
