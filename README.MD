@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Erphan**
 - GitHub: [@Erphan12](https://github.com/Erphan)
 - Email: muh.irfan161102@gmail.com
 
