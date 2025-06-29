@@ -1,0 +1,59 @@
+Berikut adalah **penjelasan masing-masing komponen** pada gambar **mesin pemadat tanah (Compactor/Roller)** di atas:
+
+---
+
+### 1. **Cabin**
+
+Tempat operator menjalankan dan mengendalikan compactor. Dilengkapi panel kontrol, kemudi, dan sistem pengendalian lainnya.
+
+### 2. **Power System**
+
+Merupakan sistem tenaga utama, biasanya berupa mesin diesel, yang memberikan tenaga untuk menggerakkan seluruh sistem compactor.
+
+### 3. **Hood**
+
+Penutup mesin yang melindungi bagian dalam (seperti mesin dan sistem pendingin) dari debu, kotoran, dan kerusakan.
+
+### 4. **Operation System**
+
+Sistem kendali utama yang digunakan oleh operator untuk mengoperasikan fungsi-fungsi mesin seperti arah, kecepatan, getaran, dan lain-lain.
+
+### 5. **Transmission System**
+
+Sistem transmisi yang mengatur penyaluran tenaga dari mesin ke roda atau drum untuk menghasilkan gerakan maju atau mundur.
+
+### 6. **Airway System**
+
+Sistem aliran udara untuk pendinginan mesin atau sistem lain, memastikan suhu kerja tetap optimal.
+
+### 7. **Air Condition**
+
+Sistem AC di dalam kabin operator untuk memberikan kenyamanan kerja, terutama di lingkungan panas.
+
+### 8. **Hydraulic System**
+
+Sistem hidrolik yang mengendalikan berbagai bagian mesin seperti drum getar, scraper, dan sistem kemudi.
+
+### 9. **Articulate Frame**
+
+Rangka sendi yang memungkinkan body depan dan belakang compactor bergerak secara fleksibel (artikulasi), membantu saat bermanuver.
+
+### 10. **Electrical System**
+
+Sistem kelistrikan yang mendukung pengoperasian panel kontrol, lampu, sensor, dan fitur elektronik lainnya.
+
+### 11. **Vibratory Drum**
+
+Drum pemadat bergetar yang digunakan untuk memadatkan tanah atau aspal melalui kombinasi berat dan getaran.
+
+### 12. **Mark**
+
+Biasanya merupakan logo atau merek pabrikan yang menandai identitas alat berat tersebut.
+
+### 13. **Scraper**
+
+Pisau pembersih yang menempel di drum, berfungsi untuk membersihkan tanah atau material yang menempel pada drum saat proses pemadatan.
+
+---
+
+Gambar ini menunjukkan **struktur utama dari compactor tipe single drum vibratory**, yang digunakan untuk pemadatan lapisan tanah dalam proyek konstruksi jalan, bendungan, atau proyek besar lainnya.

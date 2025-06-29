@@ -1,0 +1,77 @@
+Gambar di atas menunjukkan bagian-bagian atau **komponen utama dari sebuah bulldozer** (merek Komatsu tipe D65EX). Berikut adalah penjelasan masing-masing komponennya sesuai dengan nomor pada gambar:
+
+---
+
+### 🔧 **Penjelasan Komponen:**
+
+1. **Cutting Edge**
+
+   * Bagian bawah dari blade yang langsung bersentuhan dengan tanah, berfungsi untuk memotong atau mengikis material.
+
+2. **Blade**
+
+   * Bagian depan bulldozer yang digunakan untuk mendorong material seperti tanah, pasir, atau batuan.
+
+3. **Work Lamp**
+
+   * Lampu kerja yang membantu operator saat bekerja di kondisi minim cahaya atau malam hari.
+
+4. **Lift Cylinder**
+
+   * Silinder hidrolik yang digunakan untuk mengangkat atau menurunkan blade.
+
+5. **Exhaust Pipe**
+
+   * Pipa knalpot tempat keluarnya gas buang dari mesin.
+
+6. **Operator Seat**
+
+   * Tempat duduk operator saat mengoperasikan bulldozer.
+
+7. **Cabin**
+
+   * Ruang tertutup tempat operator mengendalikan alat berat; melindungi dari cuaca dan bahaya luar.
+
+8. **Brace**
+
+   * Penyangga atau penghubung struktur blade dengan badan bulldozer.
+
+9. **Front Idler**
+
+   * Roda depan dari rangka track yang membantu menjaga ketegangan track.
+
+10. **Straight Frame**
+
+    * Rangka utama yang menyambungkan komponen depan dan belakang bulldozer.
+
+11. **Upper Roller**
+
+    * Roller atas yang membantu menjaga posisi track tetap di tempat saat bergerak.
+
+12. **Lower Roller**
+
+    * Roller bawah yang menopang berat bulldozer di atas track.
+
+13. **Track Frame**
+
+    * Struktur penopang yang menahan sistem track dan roller.
+
+14. **Final Drive**
+
+    * Mekanisme transmisi akhir yang mengubah torsi dan kecepatan mesin untuk menggerakkan track.
+
+15. **Sprocket**
+
+    * Roda bergerigi yang menggerakkan track, digerakkan oleh final drive.
+
+16. **Track Shoe Assy (Assembly)**
+
+    * Rangkaian sepatu track yang memungkinkan bulldozer berjalan di atas medan berat.
+
+17. **Engine Cover**
+
+    * Penutup mesin yang melindungi mesin dari debu, air, dan benturan.
+
+---
+
+Jika Anda ingin penjelasan lebih detail tentang fungsi kerja setiap komponen atau sistem secara keseluruhan (seperti sistem hidrolik atau transmisi), saya bisa bantu juga.
