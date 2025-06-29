@@ -1,6 +1,6 @@
 # Manual Book Alat Berat - PWA
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Erphan12/manualbook-alat-berat)
+Have take a look : https://manualbook-alat-berat.vercel.app/
 
 Aplikasi Progressive Web App (PWA) untuk manual book digital alat berat. Aplikasi ini menyediakan panduan visual berupa gambar dan video untuk berbagai jenis alat berat konstruksi.
 
