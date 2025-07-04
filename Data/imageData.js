@@ -39,12 +39,12 @@ export const imageData = {
       _label: 'General Komponen',
       _description: 'Komponen umum yang membentuk bagian-bagian vital...',
       _images: [
-        { file: 'bateray atau aki.jpeg', desc: 'Baterai atau Aki', voice: 'voice/ekskavator/general komponen/bateray atau aki.mp3' },
-        { file: 'engine.jpeg', desc: 'Engine', voice: 'voice/ekskavator/general komponen/engine.mp3' },
-        { file: 'komponen luar.jpeg', desc: 'Komponen Luar', voice: 'voice/ekskavator/general komponen/komponen luar.mp3' },
-        { file: 'pump.jpeg', desc: 'Pump', voice: 'voice/ekskavator/general komponen/pump.mp3' },
-        { file: 'radiator.jpeg', desc: 'Radiator', voice: 'voice/ekskavator/general komponen/Radiator.mp3' },
-        { file: 'swing motor.jpeg', desc: 'Swing Motor', voice: 'voice/ekskavator/general komponen/swing motor.mp3' }
+        { file: 'bateray atau aki.jpeg', desc: 'Baterai atau Aki', voice: 'voice/ekskavator/general-komponen/bateray atau aki.mp3' },
+        { file: 'engine.jpeg', desc: 'Engine', voice: 'voice/ekskavator/general-komponen/engine.mp3' },
+        { file: 'komponen luar.jpeg', desc: 'Komponen Luar', voice: 'voice/ekskavator/general-komponen/komponen luar.mp3' },
+        { file: 'pump.jpeg', desc: 'Pump', voice: 'voice/ekskavator/general-komponen/pump.mp3' },
+        { file: 'radiator.jpeg', desc: 'Radiator', voice: 'voice/ekskavator/general-komponen/radiator.mp3' },
+        { file: 'swing motor.jpeg', desc: 'Swing Motor', voice: 'voice/ekskavator/general-komponen/swing motor.mp3' }
       ]
     },
     'dalam-kabin': {

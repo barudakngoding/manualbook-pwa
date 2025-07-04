@@ -5,29 +5,36 @@ import { showMediaModal, hideImageModal } from './modal.js';
 window.renderSidebar = renderSidebar;
 window.showMediaModal = showMediaModal;
 
-// Sidebar toggle logic
-const sidebar = document.getElementById('sidebar');
-const overlay = document.querySelector('.overlay');
-const header = document.querySelector('header');
-const menuButton = document.createElement('button');
-menuButton.classList.add('menu-button');
-menuButton.innerHTML = '☰';
-header.prepend(menuButton);
-
-toggleSidebar();
-menuButton.addEventListener('click', toggleSidebar);
-overlay.addEventListener('click', toggleSidebar);
+let sidebar, overlay, header, menuButton;
 
 function toggleSidebar() {
+    if (!sidebar || !overlay) return;
     sidebar.classList.toggle('open');
     overlay.classList.toggle('show');
     document.body.style.overflow = sidebar.classList.contains('open') ? 'hidden' : '';
 }
 
 document.addEventListener('DOMContentLoaded', function() {
+    sidebar = document.getElementById('sidebar');
+    header = document.querySelector('header');
+    overlay = document.querySelector('.overlay');
+    if (!overlay) {
+        overlay = document.createElement('div');
+        overlay.classList.add('overlay');
+        document.body.appendChild(overlay);
+    }
+    menuButton = document.createElement('button');
+    menuButton.classList.add('menu-button');
+    menuButton.innerHTML = '☰';
+    header.prepend(menuButton);
+
+    menuButton.addEventListener('click', toggleSidebar);
+    overlay.addEventListener('click', toggleSidebar);
+
     renderSidebar();
     renderFolder(getCurrentFolder(), folderStack.slice());
     setupImageHighlightOnScroll();
+    toggleSidebar();
 
     const handleResize = () => {
         if (window.innerWidth <= 700) {
@@ -55,6 +62,22 @@ document.addEventListener('DOMContentLoaded', function() {
             hideImageModal();
         }
     });
+
+    // Footer scroll logic
+    const footer = document.getElementById('main-footer');
+    function checkFooterVisibility() {
+        if (!footer) return;
+        const scrollY = window.scrollY || window.pageYOffset;
+        const windowH = window.innerHeight;
+        const docH = document.documentElement.scrollHeight;
+        if (scrollY + windowH >= docH - 2) {
+            footer.style.display = 'block';
+        } else {
+            footer.style.display = 'none';
+        }
+    }
+    window.addEventListener('scroll', checkFooterVisibility);
+    checkFooterVisibility();
 });
 
 if ('serviceWorker' in navigator) {
