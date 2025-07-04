@@ -132,7 +132,6 @@ export const imageData = {
       { file: 'Operation System (Sistem Operasi).jpg', desc: 'Operation System', voice: 'voice/kompaktor/Operation System (Sistem Operasi).mp3' }, // Changed
       { file: 'Power System (Sistem Daya).png', desc: 'Power System', voice: 'voice/kompaktor/Power System (Sistem Daya).mp3' }, // Changed
       { file: 'Scraper (Pengikis).jpg', desc: 'Scraper', voice: 'voice/kompaktor/Scraper (Pengikis).mp3' }, // Changed
-      { file: 'Transmission System (Sistem Transmisi) (2).png', desc: 'Transmission System (2)', voice: 'voice/kompaktor/Transmission System (Sistem Transmisi) (2).mp3' }, // Changed
       { file: 'Transmission System (Sistem Transmisi).png', desc: 'Transmission System', voice: 'voice/kompaktor/Transmission System (Sistem Transmisi).mp3' }, // Changed
       { file: 'Vibratory Drum (Drum Vibrasi).png', desc: 'Vibratory Drum', voice: 'voice/kompaktor/Vibratory Drum (Drum Vibrasi).mp3' } // Changed
     ],
