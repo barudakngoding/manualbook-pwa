@@ -149,7 +149,7 @@ function renderFolder(folderObj, path = []) {
             if (isVideo) {
                 src = item.url;
 
-                // 👉 Pakai iframe untuk video Google Drive
+                // Pakai iframe untuk video Google Drive
                 mediaElement = document.createElement('iframe');
                 mediaElement.src = src;
                 mediaElement.allow = 'autoplay';
@@ -328,14 +328,14 @@ function showMediaModal(src, item, isVideo = false) {
     const captionText = item.desc || item.title || "Media";
 
     if (isVideo) {
-        mediaElement = document.createElement('video');
-        mediaElement.setAttribute('controls', true);
-        mediaElement.setAttribute('autoplay', true);
-        mediaElement.setAttribute('loop', true);
-        mediaElement.setAttribute('muted', true);
+        // Create an iframe to load the Google Drive preview page
+        mediaElement = document.createElement('iframe');
+        mediaElement.allow = 'autoplay; fullscreen';
+        mediaElement.allowFullscreen = true;
     } else {
         mediaElement = document.createElement('img');
     }
+    
     mediaElement.id = 'img-modal-content-element';
     mediaElement.className = 'img-modal-content';
     mediaElement.src = src;
@@ -345,21 +345,15 @@ function showMediaModal(src, item, isVideo = false) {
     modalCaption.textContent = captionText;
     modal.classList.add('show');
     document.body.style.overflow = 'hidden';
-
-    if (isVideo) {
-        mediaElement.onloadeddata = () => {
-            mediaElement.play().catch(e => console.error("Video autoplay failed:", e));
-        };
-    }
 }
 
 function hideImageModal() {
     const modal = document.getElementById('img-modal');
     const mediaElement = document.getElementById('img-modal-content-element');
     
-    if (mediaElement && mediaElement.tagName === 'VIDEO') {
-        mediaElement.pause();
-        mediaElement.currentTime = 0;
+    // Stop iframe video by removing its src
+    if (mediaElement && mediaElement.tagName === 'IFRAME') {
+        mediaElement.src = '';
     }
     
     if (currentVoiceOver) {
