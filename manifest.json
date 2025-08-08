@@ -1,21 +1,21 @@
 {
-  "name": "Manual Book Alat Berat",
-  "short_name": "ManualBook",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#2196f3",
-  "theme_color": "#2196f3",
-  "description": "Manual book digital alat berat berbasis PWA.",
-  "icons": [
-    {
-      "src": "images/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "images/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+    "name": "Manual Book Alat Berat",
+    "short_name": "ManualBook",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "theme_color": "#2196f3",
+    "description": "Manual book digital alat berat berbasis PWA.",
+    "icons": [
+        {
+            "src": "images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
