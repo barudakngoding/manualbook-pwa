@@ -115,6 +115,7 @@ export function getCurrentFolder() {
     for (let i = 0; i < folderStack.length; i++) {
         const key = folderStack[i];
         if (key == "kuesioner") return { page: "https://forms.gle/caE6rtwvTGUUziKfA" };
+        if (key == "logout") return { page: "auth/logout.php" };
         if (key === "video") {
             let actualParentFolder = imageData;
             for (let k = 0; k < i; k++) {
